@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704378520304",
+    "project_id": "databasetest-fffea",
+    "storage_bucket": "databasetest-fffea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704378520304:android:ac3e64628406e5a0cdf835",
+        "android_client_info": {
+          "package_name": "com.example.databasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704378520304-tdmor69198ff7m9vo90ma9ngoosi7efk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKSVZWNV3c0KTxE2esn3verg-Vyv8iHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704378520304-tdmor69198ff7m9vo90ma9ngoosi7efk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
